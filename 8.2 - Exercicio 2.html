@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Formulário de Contato</title>
+		<link href="Exercicio 2.css" rel="stylesheet" type="text/css">
+	</head>
+    <body>	
+	
+	    <form action="" method="">
+		<!-- Atributo action: define para qual URL o formulário será enviado. URL 
+		     Atributo method: define qual será o método de envio do formuário. get, post 
+		     Observação: tem outros atributos para definir o formulário como:  
+		     accept-charset, autocomplete, enctype, name, novalidate, target -->
+			<fieldset>
+			    <legend>Contato</legend>
+			    <label>Nome:<br><input type="text" name="name" class="nom" maxlength="90"/></label><br>
+				<br>
+			    <label>Email:<br><input type="email" name="email" class="mail" maxlength="90"/></label><br>
+				<br>
+				<label>Telefone:<br><input type="tel" name="telephone" class="tel" maxlength="16"/></label><br>
+				<br>
+				<label>Mensagem:<br><textarea name="comments" class="mens"> </textarea></label><br>
+				<br>
+				<input type="submit" value="Enviar" class="botao"/>
+			</fieldset>
+		</form>
+	
+	</body>
+</html>	

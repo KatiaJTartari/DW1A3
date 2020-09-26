@@ -1,0 +1,50 @@
+fieldset { 
+    background-color: pink;
+	width: 900px;
+	border: solid;
+	border-color: DeepPink;}
+
+legend { 
+    color: DeepPink;
+	font-family: Rockwell;
+	font-size:50px;}
+	 
+label { 
+    color: black;
+	font-family: Rockwell;
+	font-size:20px;}	
+
+textarea {
+    width: 700px;
+	height: 200px;}
+	
+.nom { 
+   width: 800px;
+   height: 20px;
+   font-size: 17px;}
+
+.mail { 
+    width: 800px;
+    height: 20px;
+	font-size: 17px;}
+
+.tel { 
+    width: 200px;
+    height: 20px;
+	font-size: 17px;}
+
+.mens { 
+    color: black; /* Se quiser posso mudar a cor da fonte de dentro do campo */
+	font-size: 17px;}
+    
+.botao { 
+    color: white;
+	font-size: 20px;
+	font-family: Rockwell;
+	background-color: DeepPink;
+	width: 90px;
+	height: 40px;
+	border: solid;}	
+	
+body{ 
+     background-color:black;}	
