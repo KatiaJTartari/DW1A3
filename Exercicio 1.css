@@ -1,0 +1,36 @@
+body {
+	width: 960px;
+    font-family: arial;
+	background-color: #D3D3D3;
+	text-align: justify}
+
+table {
+    border-style: none;}
+	
+th{
+	border: none;
+	background-color: green;
+	padding: 1px;
+    width: 60px;}
+
+td {
+	border: none;
+	background-color: white;
+	padding: 1px;
+    width: 60px;
+	text-align: center;}
+
+img.logo{
+	width: 100px;
+	height: 100px;}
+	
+img.cesta{
+	width: 250px;
+	height: 250px;}	
+	
+img.prof{
+	width: 500px;}	
+	
+	
+	
+	

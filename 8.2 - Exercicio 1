@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Basquete</title>
+		<link href="Exercicio 1.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+	    					
+		<br>
+		
+		<h1>BASQUETEBOL</h1>
+								
+		<figure>
+		<img src="https://png.clipart.me/istock/previews/6221/62214658-basketball-backboard-and-ball.jpg" class="cesta" alt="Cesta de Basquete com a Bola"> 
+        <figcaption>Cesta de Basquete</figcaption>
+		</figure>
+						
+        <p>O basquetebol ou basquete, é um esporte coletivo praticado entre duas equipes; sendo jogado com uma bola,
+		onde o objetivo é inseri-la no cesto fixo localizado nas extremidades da quadra.</p>
+		<p>Seu nome (basketball)está relacionado com dois de seus elementos principais: a cesta (em inglês, basket)
+		e a bola (ball); sendo o segundo esporte mais popular do mundo (atrás apenas do futebol).</p> 
+		
+		<br>
+		
+		<h2>Origem e História</h2>
+		<p>O basquete foi inventado nos Estados Unidos da América em dezembro de 1891 na Associação Cristã para Moços 
+		(YMCA) de Springfield, pelo professor James Naismith (1861-1940).</p> 
+		<p>O professor buscava um esporte que pudesse ser praticado pelos alunos dentro do ginásio por conta do inverno 
+		rigoroso e da chuva; além disso, a ideia original era criar um esporte menos violento que o futebol americano. 
+		O professor prendeu então dois cestos de pêssego no alto de uma parede e as equipes tinham que encestar
+		a bola. Naismith mediu a altura das cestas e registrou 3,05 metros, essa altura é a mesma até hoje.</p>
+		
+        <figure>
+		<img src="https://basquetebolpt.weebly.com/uploads/3/0/5/2/30523220/1401878916.png" class="prof" alt="Professor James Naismith"> <br>
+		<figcaption>Professor James Naismith</figcaption>
+		</figure>
+		
+		<br>
+		
+		<p>O primeiro jogo oficial de basquete foi disputado em 1892; nesse mesmo ano, as mulheres começaram a praticar
+		essa modalidade e a primeira partida feminina ocorreu em 1896. A modalidade feminina foi inserida pela professora
+		de educação física Senda Berenson. Foi também em 1896 que o esporte chegou ao Brasil, trazido pelo norte-americano
+		Augusto Louis.</p>	
+        
+		<br>
+		
+        <h2>Regras do Basquetebol</h2>
+		<p>O basquetebol tem como objetivo inserir a bola no cesto correspondente à sua equipe, sendo dois cestos em cada 
+		extremidade de quadra; o local onde está o cesto é chamado de tabela.</p>
+		<p>Ganha a equipe que fizer o maior número de pontos, os pontos variam segundo o local de arremesso. Para lance 
+		livre é somado um ponto, do contrário, dois pontos são somados. Há ainda, os pontos feitos quando os jogadores 
+		estão próximos da linha de três; nesse caso três pontos são contados.</p>
+		<p>O jogo está dividido em 4 tempos de 10 minutos cada; baseado em batidas, passes de bola e posições de 
+		defesa e ataque. Os passes de bola podem ser: passe com a mão, passe de peito, passe picado (ou quicado), passe
+		de ombro e passe por cima da cabeça.</p>
+		<p>Já os arremessos mais utilizados são a bandeja e o jump; as chamadas "enterradas" ocorrem mediante um salto
+		e a colocação da bola no cesto. Os jogadores não podem dar mais de dois passos com a bola nas mãos; antes disso,
+		ele deve passar para o colega do time.</p>	
+        
+		<br>
+		
+        <h2>Jogadores</h2>	
+        <p>O basquetebol é disputado entre duas equipes de 5 jogadores cada, sendo classificados em armadores (base),
+		extremos e postes (pivôs).</p>
+		<p>Os armadores estão localizados no centro da quadra e, portanto, são a "cabeça" do time. Os extremos, são 
+		aqueles que ficam próximos das linhas laterais. Já os pivôs, são responsáveis por maior parte dos arremessos 
+		de bola ao cesto.</p>
+		<p>Geralmente, os postes são jogadores maiores e mais ágeis da equipe; são eles também que fazem o rebote
+		das bolas, ou seja, recuperam a bola após o arremesso.</p>
+		
+		<br>
+		
+		<h2>Classificação Novo Basquete Brasil de 2018–19</h2>
+		
+		<figure>
+		<img src="https://logodownload.org/wp-content/uploads/2017/11/nbb-logo-1.png" class="logo" alt="Logo NBB - Logo Novo Basquete Brasil"> <br>
+		<figcaption>Logo Novo Basquete Brasil</figcaption>
+		</figure>
+		
+		<br>
+		
+		<table>
+		    <tr>
+		        <th>Posição</th>
+			    <th>Times</th>
+			    <th>Aproveitamento de Pontos</th>
+			    <th>Pontos</th>
+			    <th>Jogos</th>
+			    <th>Vitórias</th>
+			    <th>Derrotas</th>
+			    <th>Casa</th>
+			    <th>Fora</th>
+			    <th>Pontos Feitos</th>
+			    <th>Pontos Sofridos</th>
+			    <th>Saldo de Pontos</th>
+			</tr>
+            <tr>
+			    <td>1</td>
+				<td>Franca</td>
+				<td>88.5</td>
+				<td>49</td>
+				<td>26</td>
+				<td>23</td>
+				<td>3</td>
+				<td>12-1</td>
+				<td>11-2</td>
+				<td>2258</td>
+				<td>1992</td>
+				<td>266</td>
+            <tr>
+            <tr>
+			    <td>2</td>
+			    <td>Flamengo</td>
+				<td>84.6</td>
+				<td>48</td>
+				<td>26</td>
+				<td>22</td>
+				<td>4</td>
+				<td>12-1</td>
+				<td>10-3</td>
+				<td>2197</td>
+				<td>1836</td>
+				<td>361</td>
+			<tr>		
+            <tr>
+			    <td>3</td>
+				<td>Pinheiros</td>
+				<td>80.8</td>
+				<td>47</td>
+				<td>26</td>
+				<td>21</td>
+				<td>5</td>
+				<td>11-2</td>
+				<td>10-3</td>
+				<td>2154</td>
+				<td>1976</td>
+				<td>178</td>
+            <tr>		
+            <tr>
+			    <td>4</td>
+				<td>Mogi das Cruzes</td>
+				<td>65.4</td>
+				<td>43</td>
+				<td>26</td>
+				<td>17</td>
+				<td>9</td>
+				<td>9-4</td>
+				<td>8-5</td>
+				<td>2195</td>
+				<td>2095</td>
+				<td>100</td>
+            <tr>		
+            <tr>
+			    <td>5</td>
+				<td>Paulistano</td>
+				<td>61.5</td>
+				<td>42</td>
+				<td>26</td>
+				<td>16</td>
+				<td>10</td>
+				<td>8-5</td>
+				<td>8-5</td>
+				<td>2209</td>
+				<td>2098</td>
+				<td>111</td>
+            <tr>		
+            <tr>
+			    <td>6</td>
+				<td>Botafogo</td>
+				<td>46.2</td>
+				<td>38</td>
+				<td>26</td>
+				<td>12</td>
+				<td>14</td>
+				<td>8-5</td>
+				<td>4-9</td>
+				<td>1956</td>
+				<td>1998</td>
+				<td>-42</td>
+            <tr>		
+            <tr>
+			    <td>7</td>
+				<td>Corinthias</td>
+				<td>46.2</td>
+				<td>38</td>
+				<td>26</td>
+				<td>12</td>
+				<td>14</td>
+				<td>8-5</td>
+				<td>4-9</td>
+				<td>2079</td>
+				<td>2075</td>
+				<td>4</td>
+            <tr>		
+            <tr>
+			    <td>8</td>
+				<td>Bauru</td>
+				<td>42.3</td>
+				<td>37</td>
+				<td>26</td>
+				<td>11</td>
+				<td>15</td>
+				<td>6-7</td>
+				<td>5-8</td>
+				<td>2017</td>
+				<td>2065</td>
+				<td>-48</td>
+            <tr>		
+            <tr>
+			    <td>9</td>
+				<td>Minas</td>
+				<td>42.3</td>
+				<td>37</td>
+				<td>26</td>
+				<td>11</td>
+				<td>15</td>
+				<td>8-5</td>
+				<td>3-10</td>
+				<td>2043</td>
+				<td>2105</td>
+				<td>-62</td>
+            <tr>		
+            <tr>
+			    <td>10</td>
+				<td>Universo/Brasília</td>
+				<td>38.5</td>
+				<td>36</td>
+				<td>26</td>
+				<td>10</td>
+				<td>16</td>
+				<td>6-7</td>
+				<td>4-9</td>
+				<td>2022</td>
+				<td>2182</td>
+				<td>-160</td>
+            <tr>		
+            <tr>
+			    <td>11</td>
+				<td>São José</td>
+				<td>34.6</td>
+				<td>35</td>
+				<td>26</td>
+				<td>9</td>
+				<td>17</td>
+				<td>5-8</td>
+				<td>4-9</td>
+				<td>2039</td>
+				<td>2117</td>
+				<td>-78</td>
+            <tr>		
+            <tr>
+			    <td>12</td>
+				<td>Basquete Cearense</td>
+				<td>30.8</td>
+				<td>34</td>
+				<td>26</td>
+				<td>8</td>
+				<td>18</td>
+				<td>6-7</td>
+				<td>2-11</td>
+				<td>1915</td>
+				<td>2034</td>
+				<td>-119</td>
+            <tr>		
+            <tr>
+			    <td>13</td>
+				<td>Vasco da Gama</td>
+				<td>19.2</td>
+				<td>31</td>
+				<td>26</td>
+				<td>5</td>
+				<td>21</td>
+				<td>2-11</td>
+				<td>3-10</td>
+				<td>1933</td>
+				<td>2235</td>
+				<td>-302</td>
+            <tr>		
+            <tr>
+			    <td>14</td>
+				<td>Joinville/AABJ</td>
+				<td>19.2</td>
+				<td>31</td>
+				<td>26</td>
+				<td>5</td>
+				<td>21</td>
+				<td>3-10</td>
+				<td>2-11</td>
+				<td>1999</td>
+				<td>2208</td>
+				<td>-209</td>
+            <tr>					
+		</table>
+		
+	</body>
+ </html>
