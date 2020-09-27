@@ -1,0 +1,55 @@
+legend{
+	font-family:Rockwell;
+	font-size:20pt;
+	color:#FF1493;
+}	
+
+p{
+  font-family:Rockwell;
+  font-size:15pt;
+  color:#FF1493;
+}		
+	
+input{
+   font-family:Rockwell;
+   font-size:15pt;
+   color:#FF1493;
+   width:100px;
+   height:30px;
+}
+  
+body{
+   background-color:#000000;
+   padding:10px;
+}
+
+fieldset{
+	border-style:solid;
+	border-width:1px;
+	width:400px;
+    border-color:#FF1493;
+	border-width:3px;
+}	
+  
+#resultado{
+   height:30px;
+   border-style:solid;
+   border-width:1px;
+   width:150px;
+   text-align:center;
+   font-size:18pt;
+   border-radius:5px;
+   padding:10px;
+}
+
+.botao{
+	border-style:solid;
+	width:200px;
+	height:40px;
+    border-color:#FF1493;
+	border-width:3px;
+	font-family:Rockwell;
+    font-size:15pt;
+	color:white;
+	background-color:#FF1493;
+}	
