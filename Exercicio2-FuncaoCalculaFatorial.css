@@ -1,0 +1,53 @@
+p{
+  font-family:Rockwell;
+  font-size:15pt;
+  color:#FF1493;
+}		
+	
+#num{
+   font-family:Rockwell;
+   font-size:15pt;
+   color:#FF1493;
+   width:100px;
+   height:30px;
+   border-color:#FF1493;
+   border-style:solid;
+   outline-color: #FF1493;
+}
+  
+body{
+   background-color:black;
+   padding:50px;
+}
+
+#result{
+   height:30px;
+   border-style:solid;
+   border-width:1px;
+   width:250px;
+   text-align:center;
+   font-size:18pt;
+   border-radius:5px;
+   padding:10px;
+   color: #FF1493;
+}
+
+button{
+	border-style:solid;
+	width:110px;
+	height:40px;
+    border-color:#FF1493;
+	border-width:3px;
+	font-family:Rockwell;
+    font-size:15pt;
+	color:white;
+	background-color:#FF1493;
+}	
+
+fieldset{
+	border-style:solid;
+	border-width:1px;
+	width:400px;
+    border-color:#FF1493;
+	border-width:3px;
+}	
