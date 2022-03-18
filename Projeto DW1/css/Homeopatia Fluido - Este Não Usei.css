@@ -1,0 +1,54 @@
+* {
+    font-family: Arial , Verdana , sans serif;
+    color: #665544;
+    text-align : center;}
+body {
+    width: 90%;
+    margin: 0 auto;}
+#content {
+    overflow: auto;}
+#nav , #feature , #footer {
+    background-color : #efefef;
+    padding: 1%;
+	margin: 1%;}
+.column1, .column2 , .column3 {
+    width: 31.3%;
+    float: left;
+    margin: 1%;}
+.column3 {
+    margin-right: 0%;}	
+li {
+    display: inline;
+    padding: 0.5em;}
+#feature, .article {
+    height: 10em;
+	margin-bottom: 1em;
+    background-color: #efefef;}
+h1, h2 {
+    color: green;
+	font-family: Luminari, Marker Felt, Trattatello;}	
+h3 {
+    color: green;}
+h4 {
+    color: brown;	
+    text-align : left;}
+.homeo {
+	width: 4%;
+	margin-left: 2%;}
+figcaption {
+text-align: center;}	
+table {
+	border: none;
+	margin-left: 150px;}
+th,td {
+    border: none;
+    background-color: PaleGreen;
+    padding: 5px;
+    width: 300px;
+	text-align: center;}
+th {
+    color: brown;
+	text-align: center;}
+    
+/* https://www.w3.org/Style/Examples/007/fonts.pt_BR.html	*/
+	
